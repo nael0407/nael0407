@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NATANAEL%20SIMANJUNTAK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-simanjuntak)
 [![GitHub](https://img.shields.io/badge/GITHUB-NAEL0407-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nael0407)
 [![UGM](https://img.shields.io/badge/UGM-DTETI%20FT%20UGM-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://dteti.ugm.ac.id)
-[![Robotics](https://img.shields.io/badge/ROBOTICS-ALTAIR%20HUMANOID%20GMRT-BE185D?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Altair-Humanoid-GMRT)
 [![Email](https://img.shields.io/badge/EMAIL-natansimanjuntak17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natansimanjuntak17@gmail.com)
 
 A systems, cloud infrastructure, and robotics-focused engineer studying **Information Technology** at **Universitas Gadjah Mada** (DTETI FT UGM) and active Computer Vision Engineer at **Gadjah Mada Robotics Team (Humanoid Robot Sub-Team)**. I specialize in kernel-level Zero-Trust cloud infrastructures (eBPF & Kubernetes), high-speed virtualized network fabrics, perception systems for autonomous humanoid robotics (ROS2/CV), and deep reinforcement learning architectures.
@@ -92,14 +91,6 @@ A systems, cloud infrastructure, and robotics-focused engineer studying **Inform
 - 📡 **[WiFi Network Performance Simulator](https://github.com/nael0407/Wifi-Simulation)** | [Live Demo](https://wifi-simulation.vercel.app/)  
   *Stochastic $M(t)/M/K/K$ Multi-Class Loss System & Wireless Propagation Engine.*  
   Interactive web simulation modeling theoretical queueing systems, log-distance path loss, and GPS/WFQ scheduling to prevent user starvation during bulk surges (+299.6% collaboration throughput). Built with React 18, Canvas rendering at sustained 60 FPS (~35k steps/sec), and 100/100 Lighthouse score.
-
----
-
-## ⚡ Activity & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nael0407&theme=dark&hide_border=true&background=0D1117" alt="nael0407 streak" />
-</p>
 
 ---
 
