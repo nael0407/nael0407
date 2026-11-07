@@ -80,7 +80,7 @@ A systems, cloud infrastructure, and robotics-focused engineer studying **Inform
   *Enterprise Zero-Trust (NIST SP 800-207) & DFIR on a 14-Node Spine-Leaf EVPN/VXLAN Data Center Fabric.*  
   Integrated OPNsense stateful firewalling with host nftables micro-segmentation via Ansible, reducing attack blast radius by **85.7%** and blocking **100% of multi-hop SSH pivots**. Built an automated ISO/IEC 27037 forensic RAM collection pipeline (**2.36s average collection**) and Zeek threat hunting graph.
 
-- 🤖 **[Altair Humanoid Perception Pipeline (GMRT)](https://github.com/Altair-Humanoid-GMRT/altair_ws)**  
+- 🤖 **[Altair Humanoid Perception Pipeline (GMRT)]**  
   *Autonomous Humanoid Soccer Robot Vision System (RoboCup / KRSBI Humanoid).*  
   Engineered real-time ROS2 perception modules achieving **97.7% mAP@50** multi-ball detection (RF-DETR & YOLO) and **~12 FPS** field segmentation under dynamic, adverse indoor arena illumination.
 
